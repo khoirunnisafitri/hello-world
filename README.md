@@ -1,2 +1,3 @@
 # hello-world
-belajar terus
+belajar terus!
+coba-coba terus! semangat!
